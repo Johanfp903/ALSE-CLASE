@@ -1,0 +1,3 @@
+/home/johanfc/mi_proyecto/build/CMakeFiles/calculadora.dir
+/home/johanfc/mi_proyecto/build/CMakeFiles/edit_cache.dir
+/home/johanfc/mi_proyecto/build/CMakeFiles/rebuild_cache.dir
